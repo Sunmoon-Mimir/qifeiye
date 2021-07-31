@@ -1,0 +1,100 @@
+{
+  "id": "2332946",
+  "name": "起飞也",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "55165",
+      "name": "信息",
+      "font_class": "62",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "468192",
+      "name": "qq",
+      "font_class": "qq",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "1049939",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "13520164",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "15989480",
+      "name": "表单",
+      "font_class": "biaodan",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "6237077",
+      "name": "右",
+      "font_class": "tubiaozhizuo-",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "6629852",
+      "name": "左",
+      "font_class": "zuo-",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "356482",
+      "name": "向下",
+      "font_class": "xiangxia",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "1314698",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "5387990",
+      "name": "个人头像_o",
+      "font_class": "gerentouxiang_o",
+      "unicode": "ebac",
+      "unicode_decimal": 60332
+    },
+    {
+      "icon_id": "6149935",
+      "name": "向下",
+      "font_class": "xiangxia1",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "11481178",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "17817473",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
